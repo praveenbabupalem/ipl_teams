@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.team-card {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid #a5a3a3;
+  background-color: #ffffff33;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 7px;
+  width: 300px;
+}
+
+.team-logo {
+  height: 60px;
+  margin-right: 10px;
+}
